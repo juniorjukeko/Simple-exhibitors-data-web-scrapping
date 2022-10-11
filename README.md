@@ -1,2 +1,2 @@
-# Simple-exhibitors-data-web-scrapping
-Web Scrapping exercise using Beautifulsoup to get exhibitors data from PARCEL+POST EXPO 2022
+# Exhibitors List with Web Scrapping
+Simple web scrapping project for data entry of exhibitors list from Expo Website
